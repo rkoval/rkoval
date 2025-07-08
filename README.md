@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**rkoval/rkoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <a href="https://ryankoval.com">personal website</a> .
+    <a href="https://endtoend.productions">contracting services</a> .
+    <a href="https://blog.ryankoval.com">blog</a> .
+    <a href="https://bookmarks.ryankoval.com">bookmarks</a> .
+    <a href="https://slammin-backgammon.com">slammin' backgammon</a> .
+    <a href="https://ryankoval.pizza">pizza</a> .
+    <a href="https://github.com/sponsors/rkoval">sponsor</a>
+  </samp>
+</p>
